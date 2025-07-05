@@ -16,4 +16,8 @@ The game is fun but challenging, with a reward system to unlock skins using the 
 
 You can claim your rewards on [Discover.games](https://www.discover.games/) by clicking on the Discover my rewards button in the Skins Page.
 
-The game may have some bugs due to the short development time. 
+> [!Note]
+> Due to the short development period, there may be some bugs in the game. If you encounter any issues, please report them to the developer to help improve the experience.
+> Contact the developer: [X](https://www.x.com/KhalilHammouda1), [Email](mailto:hammoudakhalil5585@gmail.com), [Instagram](https://www.instagram.com/khalilhammouda)
+
+
