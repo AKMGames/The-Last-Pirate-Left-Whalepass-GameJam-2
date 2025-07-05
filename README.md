@@ -19,5 +19,16 @@ You can claim your rewards on [Discover.games](https://www.discover.games/) by c
 > [!Note]
 > Due to the short development period, there may be some bugs in the game. If you encounter any issues, please report them to the developer to help improve the experience.
 > Contact the developer: [X](https://www.x.com/KhalilHammouda1), [Email](mailto:hammoudakhalil5585@gmail.com), [Instagram](https://www.instagram.com/khalilhammouda)
+![](https://img.itch.zone/aW1nLzE4ODkxODg3LnBuZw==/original/IHtQxI.png)
 
+----
+# Screenshots
 
+![](https://img.itch.zone/aW1hZ2UvMzE2MjkzMS8xODg5MTgwOS5wbmc=/original/Hp4bt8.png)
+![](https://img.itch.zone/aW1hZ2UvMzE2MjkzMS8xODg5MTc2MC5wbmc=/original/esd7Gq.png)
+![](https://img.itch.zone/aW1hZ2UvMzE2MjkzMS8xODg5MTc1OS5wbmc=/original/Yw3G3z.png)
+![](https://img.itch.zone/aW1hZ2UvMzE2MjkzMS8xODg5MTc2My5wbmc=/original/pehxCM.png)
+![](https://img.itch.zone/aW1hZ2UvMzE2MjkzMS8xODg5MTgwOC5wbmc=/original/X8mcQA.png)
+![](https://img.itch.zone/aW1hZ2UvMzE2MjkzMS8xODg5MTc2MS5wbmc=/original/N01STT.png)
+![](https://img.itch.zone/aW1hZ2UvMzE2MjkzMS8xODg5MTc1OC5wbmc=/original/77Dlel.png)
+![](https://img.itch.zone/aW1hZ2UvMzE2MjkzMS8xODg5MTc2Mi5wbmc=/original/4wxmLC.png)
