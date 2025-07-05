@@ -4,6 +4,8 @@
 
 **The Last Pirate Left was made for** [$2,500 Whalepass GameJam! #2](https://itch.io/jam/2500-whalepass-gamejam-2)
 
+[Play on itch.io](https://khalilakm.itch.io/the-last-pirate-left)
+
 # About the game
 
 **The Last Pirate Left** is a retro-style game made in just one week for [$2,500 Whalepass GameJam! #2](https://itch.io/jam/2500-whalepass-gamejam-2)
